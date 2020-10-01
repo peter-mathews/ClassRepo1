@@ -1,0 +1,17 @@
+My experience with Github has been a mostly positive experience. However, 
+my first time trying to push a text file from my local repository the remote
+repository was an arudous task. This hurdle was simply because I forgot to 
+address the git pull issue. Although seemingly insignificant, it is an
+indispensable tool used to update my local repository with the new files from
+the remote repository. I have never used git before, so I will definitely learn
+to be patient with it and all its odd obstacles that must be overcome.
+
+Another obstacle I encountered was a text editor issue. As I used the git commit 
+command, the shell opened up a vim editor so that I may insert a message along
+with my submission. I have never used the vim editor and have always been an emacs user.
+I had no idea how to navigate it, much less how to insert my own text 
+and then submit that as information for git to use. So, in the future I will
+definitely be using the git commit -m command where I can insert the text in
+the command line itself without having to even rely on an editor. Overall, I like git and
+its ability to upload a file I'm using in my local shell and upload that to
+a remote repository. Seeing my file pop up in my browser was very satisfying!
