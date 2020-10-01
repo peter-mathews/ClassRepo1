@@ -1,0 +1,19 @@
+(base) kevinlg02@DESKTOP-FH070V4:~/sds335/classrepo/krl2322$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        krl_noadd.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+This is the output of "git status" after fetching, adding, committing, and pushing the two files
+on step 4. "On branch master" means that I am on the main branch of the repository. I am up to
+date with the remote repository's main branch, listed as "origin/master" which was verified
+by fetch and the previous merge commit. My noadd file is untracked, meaning it is not present in
+the remote repository. If I wanted to track it, I would use "git add krl_noadd.txt" or "git add ."
+which is suggested by the command. I prefer not to have untracked files be present in git status
+so I would add the file to the .gitignore normally, or put specifically-untracked files into
+their own directory within my local repository.

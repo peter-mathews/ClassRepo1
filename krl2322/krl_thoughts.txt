@@ -1,0 +1,15 @@
+So far, I have had a good experience with Git. I have used Git before for my technical
+projects as well as to organize my coursework in private repositories. I like using Git
+because it's straightforward and has good integration through the command line as well 
+as most IDE's/Glorified Text Editors (cough VS Code). I keep all my repositories within
+my Github account, although I've used Gitlab for its Continuous Integration pipeline
+as well as Dr. Gheith's CS429/CS439 Git server. 
+
+One of the interesting things I"ve noticed seeing other people learn the Git process
+is the confusion between what Git is versus the providers like Github or Gitlab. Having
+exposure to multiple sites has helped me separate Git from Github and whatnot. Also, I
+pretty much knew my knowledge of Git is pretty much just a working knowledge very specific
+to my workflow so far. From a conceptual and theoretical point I really don't have enough
+knowledge to be able to deliver a lecture like this one. I just solve my issues through
+googling, and fortunately Git is common enough such that someone else on StackOverflow
+would have ran into my same issue. 
