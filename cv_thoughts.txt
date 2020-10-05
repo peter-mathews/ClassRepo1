@@ -1,0 +1,10 @@
+Thoughts on git?
+
+I've used it plenty of times. I have used it for programming and engineering projects.
+I also use it for work. My experience with it so far has been nothing but good.
+It helps facilitate and ease the implementation of software based projects by letting you 
+keep source code in repositories. One of the things that I've realized it to always use
+git pull before comitting changes that way you commit only your changes. Sometimes there
+can be merge conflicts and it cause loss of progress, this has been one of the problems I've 
+faced then working on projects. 
+ 
