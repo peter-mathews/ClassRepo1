@@ -1,0 +1,1 @@
+I like Git. Git is good. It's better practice to only modify master through Pull Requests. But I'm bad at Git so I just push to master. Sorry!
